@@ -1,1 +1,21 @@
-6thSem/python/PRACTICAL/14
+# Python
+__pycache__/
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+
+
+# ...existing code...
