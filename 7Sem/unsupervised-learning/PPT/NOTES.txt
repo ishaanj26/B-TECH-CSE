@@ -1,0 +1,11 @@
+RBM PPT NOTES FOR EACH SLIDES
+RESTRICTED BOTZMAN MODEL
+
+SLIDE1->
+RBM stands for Restricted Boltzmann Machine, a type of probabilistic graphical model and generative stochastic neural network.
+
+It is designed for unsupervised learning, meaning it can learn hidden patterns or structures from unlabeled data.
+
+RBM models the joint probability distribution of visible input features and hidden latent features.
+
+Example: Used to detect patterns in images or user behavior without requiring labeled data.
