@@ -1,0 +1,25 @@
+Principles of Entrepreneurship Mindset  MS-401 (25)
+
+Data Warehousing and Data Mining CIE425T (23)
+Data Warehousing and Data Mining Lab CIE425P (36)
+
+Distributed Systems and Cloud Computing CIE407T (21)
+Distributed Systems and Cloud Computing Lab CIE407P (34)
+
+Machine Learning and Data Analytics Case Studies ML467T (23)
+Machine Learning and Data Analytics Case Studies Lab ML467P (39)
+
+
+Supervised and Deep Learning ML463T (23)
+Supervised and Deep Learning Lab ML463P (35)
+
+Minor Project ES451 (40)
+
+Unsupervised Learning ML465T (22)
+Unsupervised Learning Lab ML465P (37)
+
+Summer Training Report ES453 (92)
+
+
+
+
